@@ -2,7 +2,7 @@ import './Rodape.css'
 
 const Rodape = () => {
     return (<footer className="rodape">
-        <h2 className="rodape__titulo">Grupo Alura</h2>
+        <h2 className="rodape__titulo">Grupo Alura:</h2>
         <ul className="lista-rodape">
             <li className="lista-rodape__titulo">Educação</li>
             <li className="lista-rodape__item">

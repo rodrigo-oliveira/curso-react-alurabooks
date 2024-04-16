@@ -70,9 +70,9 @@ const Home = () => {
                 />
             </form>
         </Banner>
-        <Titulo texto="ÚLTIMOS LANÇAMENTOS"/>
+        <Titulo texto="Últimos lançamentos"/>
         <LivrosDestaque livros={lancamentos}/>
-        <Titulo texto="MAIS VENDIDOS"/>
+        <Titulo texto="Mais vendidos"/>
         <LivrosDestaque livros={maisVendidos}/>
         <TagsCategorias />
         <Newsletter />
